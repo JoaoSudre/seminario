@@ -11,7 +11,7 @@ Exemplo de comparação das bibliotecas de teste **unittest** (nativa do Python)
 
 ## Como rodar
 
-### unittest (não precisa instalar nada)
+### unittest 
 ```bash
 python -m unittest test_calculadora_unittest.py -v
 ```
